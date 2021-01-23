@@ -60,7 +60,7 @@ function Home() {
   return (
     <React.Fragment>
       <Helmet>
-        <title>Coronavirus Outbreak in India - covid19india.org</title>
+        <title>Coronavirus Outbreak in India - COVID Tracker</title>
         <meta
           name="title"
           content="Coronavirus Outbreak in India: Latest Map and Case Count"
