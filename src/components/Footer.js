@@ -48,7 +48,7 @@ function Footer() {
         </a>
 
         <a
-          href="https://www.instagram.com/iam.sayandey"
+          href="https://www.instagram.com/iam.sayandey/"
           target="_blank"
           rel="noopener noreferrer"
           className="twitter"
