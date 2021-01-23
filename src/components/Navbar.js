@@ -59,7 +59,7 @@ function Navbar({
 
       <div className="navbar-middle">
         <Link to="/" onClick={setExpand.bind(this, false)}>
-          Covid19<span>India</span>
+          BM Covid <span>Tracker</span>
         </Link>
       </div>
 
