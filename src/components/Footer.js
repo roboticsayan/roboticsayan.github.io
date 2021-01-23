@@ -13,11 +13,11 @@ function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          covid19india
+          BM Covid Tracker
         </a>
       </div>
 
-      <h5>{t('We stand with everyone fighting on the frontlines')}</h5>
+      <h5>{t('We Stand With Everyone Fighting On The Frontlines')}</h5>
 
       <div className="links">
         <a
