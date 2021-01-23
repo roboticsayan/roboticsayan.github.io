@@ -1,5 +1,5 @@
 import React from 'react';
-import {Twitter, GitHub, Database, Mail, Send} from 'react-feather';
+import {Instagram, GitHub, Database, Mail, Send} from 'react-feather';
 import {useTranslation} from 'react-i18next';
 
 function Footer() {
@@ -48,12 +48,12 @@ function Footer() {
         </a>
 
         <a
-          href="https://twitter.com/bloggingmetrics"
+          href="https://www.instagram.com/iam.sayandey"
           target="_blank"
           rel="noopener noreferrer"
-          className="twitter"
+          className="instagram"
         >
-          <Twitter />
+          <Instagram />
         </a>
 
         <a

@@ -114,7 +114,7 @@ function State() {
     <React.Fragment>
       <Helmet>
         <title>
-          Coronavirus Outbreak in {STATE_NAMES[stateCode]} - covid19india.org
+          Coronavirus Outbreak in {STATE_NAMES[stateCode]} - COVID Tracker
         </title>
         <meta
           name="title"
