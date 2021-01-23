@@ -51,7 +51,7 @@ function Footer() {
           href="https://www.instagram.com/iam.sayandey"
           target="_blank"
           rel="noopener noreferrer"
-          className="instagram"
+          className="twitter"
         >
           <Instagram />
         </a>
